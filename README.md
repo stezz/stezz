@@ -1,4 +1,4 @@
-### Hi there I am Stefano 👋
+# Hi there I am Stefano 👋
 
 I used to be a sysadmin once upon a time, then somebody might have noticed that I was better at leading software engineers rather than coding myself, and my career as an Engineering manager started like that.
 
