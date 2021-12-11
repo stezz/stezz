@@ -8,8 +8,9 @@ I also am a communication coach and I have a [Presentation Masterclass](https://
 
 That's why you will find here a suite of scripts aimed at automating Teachable schools management, aptly called [Teachable School Manager](https://github.com/stezz/teachable-scripts).
 
-- 🤔 I’m looking for help with putting a web interface in front of that set of scripts, if you have time
-- 📫 you can reach me [here](mailto:stefano.mosconi@gmail.com)
+- 🤔 I’m looking for help with putting a web interface in front of that set of scripts, if you have time you can reach me  📫 [here](mailto:stefano.mosconi@gmail.com)
+- ⚡ Fun facts: while I am Italian I have been living for a long time in Finland. Not sure if that is fun though ☺️
+- 🍕 I like to cook, especially pizza
 
 <!--
 **stezz/stezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
