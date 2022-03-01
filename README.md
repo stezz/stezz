@@ -8,6 +8,8 @@ I also am a communication coach and I have a [Presentation Masterclass](https://
 
 That's why you will find here a suite of scripts aimed at automating Teachable schools management, aptly called [Teachable School Manager](https://github.com/stezz/teachable-scripts).
 
+Also I like stock markets and another project I have been working on is a [Tiny Portfolio Tracker](https://github.com/stezz/tinyportfoliotracker)  a project written in python, fetching your positions from Yahoo!Finance Portfolio and creating beautiful graphs out of it
+
 - 🤔 I’m looking for help with putting a web interface in front of that set of scripts, if you have time you can reach me  📫 [here](mailto:stefano.mosconi@gmail.com)
 
 ## Fun Facts
