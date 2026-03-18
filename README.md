@@ -1,16 +1,14 @@
 # Hi there I am Stefano 👋
 
-I used to be a sysadmin once upon a time, then somebody might have noticed that I was better at leading software engineers rather than coding myself, and my career as an Engineering manager started like that.
+I used to be a sysadmin once upon a time, then somebody might have noticed that I was better at leading software engineers rather than coding myself, and my career as a leader started like that.
 
-As you can see from the few projects I have here I still like to tinker with code in my spare time (which, given the amount of activity, you can conclude is little).
+As you can see from the few projects I have here I still like to tinker with code in my spare time.
 
-I also am a communication coach and I have a [Presentation Masterclass](https://britemind.teachable.com/p/masterclass) on Teachable that helps people to become better communicators, public speakers and presenters based on the [Presentation Design Canvas](https://presentationdesigncanvas.com/)
+I actively mentor and coach CTOs, CPOs, VP of Engineering and Product to be come better leaders in their own fields, I am and have been in those shoes before, so I have a few opinions :)
 
-That's why you will find here a suite of scripts aimed at automating Teachable schools management, aptly called [Teachable School Manager](https://github.com/stezz/teachable-scripts).
+You can hop by my website at [Britemind](https://britemind.io) and [Presentation Design Canvas](https://presentationdesigncanvas.com/).
 
-Also I like stock markets and another project I have been working on is a [Tiny Portfolio Tracker](https://github.com/stezz/tinyportfoliotracker)  a project written in python, fetching your positions from Yahoo!Finance Portfolio and creating beautiful graphs out of it
-
-- 🤔 I’m looking for help with putting a web interface in front of that set of scripts, if you have time you can reach me  📫 [here](mailto:stefano.mosconi@gmail.com)
+I now actively run an IT consulting company in Finland, so if you need check out [Black Belt Consulting](https://www.blackbelts/fi)
 
 ## Fun Facts
 - ⚡ while I am Italian I have been living for a long time in Finland. Not sure if that is fun though ☺️
